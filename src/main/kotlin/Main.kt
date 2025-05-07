@@ -344,313 +344,313 @@ fun main() {
         "POISON" to findFraquezas(("POISON"))
     )
 
-    val graveler = mapOf(
-        "" to findFraquezas();
-    )
-
-    val golem = mapOf(
-        "" to findFraquezas();
-    )
-
-    val ponyta = mapOf(
-        "" to findFraquezas();
-    )
-
-    val rapidash = mapOf(
-        "" to findFraquezas();
-    )
-
-    val slowpoke = mapOf(
-        "" to findFraquezas();
-    )
-
-    val slowbro = mapOf(
-        "" to findFraquezas();
-    )
-
-    val magnemite = mapOf(
-        "" to findFraquezas();
-    )
-
-    val magneton = mapOf(
-        "" to findFraquezas();
-    )
-
-    val farfetchd = mapOf(
-        "" to findFraquezas();
-    )
-
-    val doduo = mapOf(
-        "" to findFraquezas();
-    )
-
-    val dodrio = mapOf(
-        "" to findFraquezas();
-    )
-
-    val seel = mapOf(
-        "" to findFraquezas();
-    )
-
-    val dewgong = mapOf(
-        "" to findFraquezas();
-    )
-
-    val grimer = mapOf(
-        "" to findFraquezas();
-    )
-
-    val shellder = mapOf(
-        "" to findFraquezas();
-    )
-
-    val cloyster = mapOf(
-        "" to findFraquezas();
-    )
-
-    val gastly = mapOf(
-        "" to findFraquezas();
-    )
-
-    val haunter = mapOf(
-        "" to findFraquezas();
-    )
-
-    val gengar = mapOf(
-        "" to findFraquezas();
-    )
-
-    val onix = mapOf(
-        "" to findFraquezas();
-    )
-
-    val drowzee = mapOf(
-        "" to findFraquezas();
-    )
-
-    val hypno = mapOf(
-        "" to findFraquezas();
-    )
-
-    val krabby = mapOf(
-        "" to findFraquezas();
-    )
-
-    val kingler = mapOf(
-        "" to findFraquezas();
-    )
-
-    val voltorb = mapOf(
-        "" to findFraquezas();
-    )
-
-    val electrode = mapOf(
-        "" to findFraquezas();
-    )
-
-    val exeggcute = mapOf(
-        "" to findFraquezas();
-    )
-
-    val exeggutor = mapOf(
-        "" to findFraquezas();
-    )
-
-    val cubone = mapOf(
-        "" to findFraquezas();
-    )
-
-    val marowak = mapOf(
-        "" to findFraquezas();
-    )
-
-    val hitmonlee = mapOf(
-        "" to findFraquezas();
-    )
-
-    val hitmonchan = mapOf(
-        "" to findFraquezas();
-    )
-
-    val lickitung = mapOf(
-        "" to findFraquezas();
-    )
-
-    val koffing = mapOf(
-        "" to findFraquezas();
-    )
-
-    val weezing = mapOf(
-        "" to findFraquezas();
-    )
-
-    val rhyhorn = mapOf(
-        "" to findFraquezas();
-    )
-
-    val rhydon = mapOf(
-        "" to findFraquezas();
-    )
-
-    val rhydon = mapOf(
-        "" to findFraquezas();
-    )
-
-    val chansey = mapOf(
-        "" to findFraquezas();
-    )
-
-    val tangela = mapOf(
-        "" to findFraquezas();
-    )
-
-    val kangaskhan = mapOf(
-        "" to findFraquezas();
-    )
-
-    val horsea = mapOf(
-        "" to findFraquezas();
-    )
-
-    val seadra = mapOf(
-        "" to findFraquezas();
-    )
-
-    val goldeen = mapOf(
-        "" to findFraquezas();
-    )
-
-    val seaking = mapOf(
-        "" to findFraquezas();
-    )
-
-    val staryu = mapOf(
-        "" to findFraquezas();
-    )
-
-    val starmie = mapOf(
-        "" to findFraquezas();
-    )
-
-    val mr_mime = mapOf(
-        "" to findFraquezas();
-    )
-
-    val scyther = mapOf(
-        "" to findFraquezas();
-    )
-
-    val jynx = mapOf(
-        "" to findFraquezas();
-    )
-
-    val electabuzz = mapOf(
-        "" to findFraquezas();
-    )
-
-    val magmar = mapOf(
-        "" to findFraquezas();
-    )
-
-    val pinsir = mapOf(
-        "" to findFraquezas();
-    )
-
-    val taurus = mapOf(
-        "" to findFraquezas();
-    )
-
-    val magikarp = mapOf(
-        "" to findFraquezas();
-    )
-
-    val gyarados = mapOf(
-        "" to findFraquezas();
-    )
-
-    val lapras = mapOf(
-        "" to findFraquezas();
-    )
-
-    val ditto = mapOf(
-        "" to findFraquezas();
-    )
-
-    val eevee = mapOf(
-        "" to findFraquezas();
-    )
-
-    val vaporeon = mapOf(
-        "" to findFraquezas();
-    )
-
-    val jolteon = mapOf(
-        "" to findFraquezas();
-    )
-
-    val flareon = mapOf(
-        "" to findFraquezas();
-    )
-
-    val porygon = mapOf(
-        "" to findFraquezas();
-    )
-
-    val omanyte = mapOf(
-        "" to findFraquezas();
-    )
-
-    val omastar = mapOf(
-        "" to findFraquezas();
-    )
-
-    val kabuto = mapOf(
-        "" to findFraquezas();
-    )
-
-    val kabutops = mapOf(
-        "" to findFraquezas();
-    )
-
-    val aerodactyl = mapOf(
-        "" to findFraquezas();
-    )
-
-    val snorlax = mapOf(
-        "" to findFraquezas();
-    )
-
-    val articuno = mapOf(
-        "" to findFraquezas();
-    )
-
-    val zapdos = mapOf(
-        "" to findFraquezas();
-    )
-
-    val moltres = mapOf(
-        "" to findFraquezas();
-    )
-
-    val dratini = mapOf(
-        "" to findFraquezas();
-    )
-
-    val dragonair = mapOf(
-        "" to findFraquezas();
-    )
-
-    val dragonite = mapOf(
-        "" to findFraquezas();
-    )
-
-    val mewtwo = mapOf(
-        "" to findFraquezas();
-    )
-
-    val mew = mapOf(
-        "PSYCHC" to findFraquezas();
-    )
+//    val graveler = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val golem = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val ponyta = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val rapidash = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val slowpoke = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val slowbro = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val magnemite = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val magneton = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val farfetchd = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val doduo = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val dodrio = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val seel = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val dewgong = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val grimer = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val shellder = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val cloyster = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val gastly = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val haunter = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val gengar = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val onix = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val drowzee = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val hypno = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val krabby = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val kingler = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val voltorb = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val electrode = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val exeggcute = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val exeggutor = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val cubone = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val marowak = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val hitmonlee = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val hitmonchan = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val lickitung = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val koffing = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val weezing = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val rhyhorn = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val rhydon = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val rhydon = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val chansey = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val tangela = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val kangaskhan = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val horsea = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val seadra = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val goldeen = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val seaking = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val staryu = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val starmie = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val mr_mime = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val scyther = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val jynx = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val electabuzz = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val magmar = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val pinsir = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val taurus = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val magikarp = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val gyarados = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val lapras = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val ditto = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val eevee = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val vaporeon = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val jolteon = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val flareon = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val porygon = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val omanyte = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val omastar = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val kabuto = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val kabutops = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val aerodactyl = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val snorlax = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val articuno = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val zapdos = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val moltres = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val dratini = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val dragonair = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val dragonite = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val mewtwo = mapOf(
+//        "" to findFraquezas();
+//    )
+//
+//    val mew = mapOf(
+//        "PSYCHC" to findFraquezas();
+//    )
 
     print(bulbasaur)
 }
